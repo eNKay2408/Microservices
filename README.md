@@ -169,6 +169,6 @@ docker compose up
 ## 🌐 <a name="contact">Contact</a>
 
 - **Name:** Nguyen Phan Duc Khai - **eNKay**
-- **Portfolio:** [enkay.live](https://enkay.live)
+- **Portfolio:** [enkay.tech](https://enkay.tech)
 - **LinkedIn:** [en-kay](https://www.linkedin.com/in/en-kay/)
 - **Email:** [enkay.work@outlook.com](mailto:enkay.work@outlook.com)
